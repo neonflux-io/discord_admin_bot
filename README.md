@@ -56,8 +56,8 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/iztche-aimbot.git
-cd iztche-aimbot
+git clone https://github.com/top-dev0810/discord_admin_bot.git
+cd discord_admin_bot
 ```
 
 2. **Install dependencies**
