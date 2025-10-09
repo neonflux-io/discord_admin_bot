@@ -15,7 +15,7 @@
 ## ✨ Features
 
 ### 🔨 **Moderation Commands**
-- **Ban/Unban System** - Advanced ban management with moderator tracking
+- **Ban/Unban System** - Advanced ban management with moderator tracking.
 - **Timeout Management** - Temporary user restrictions with duration parsing
 - **Kick System** - Quick user removal with reason logging
 - **Mute Commands** - Multiple mute types (regular, image, reaction)
